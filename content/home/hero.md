@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 8
 title: Elevate Your Tech Skills, Write Your Success Story.
 hero_media: teacher.png
 design:
@@ -26,4 +26,4 @@ advanced:
 
 <br>
 
-No death by powerpoint. Start coding from day 1!
+No death by powerpoint. Learn by Coding!
