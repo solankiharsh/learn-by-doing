@@ -14,8 +14,8 @@ main:
     PageRef: course/data-science/_index.md
     weight: 10
     parent: courses
-  - name: Robotics
-    PageRef: course/robotics/_index.md
+  - name: AWS
+    PageRef: course/AWS/_index.md
     weight: 20
     parent: courses
   - name: Blog

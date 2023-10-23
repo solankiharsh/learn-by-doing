@@ -16,25 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Meet Harsh, a talented Machine Learning Engineer with a passion for deep learning in computer vision and full-stack engineering. Currently serving as a Senior ML Engineer at Target Tech India, Harsh is engaged in building a MLOps platform from scratch.
 
-Proficient in Python, AWS, Sprintboot, Scala, Go, Kafka, PyTorch, TensorFlow, Flask, FastAPI, and Docker, Harsh's expertise extends across a wide range of technologies. He is a professional introvert who thrives on writing to learn and continually seeks new knowledge every day.
-
-Harsh's fascination with Data Science stems from his mathematical captivation and love for questioning existing processes and assumptions. He excels in developing novel methods and analytical algorithms, constantly striving for consistent improvement.
-
-His proficiency in Machine Learning encompasses various algorithms, including Decision Trees, Regression, Classification, Neural Networks, Ensemble methods, Kernel Methods, SVMs, Markov Decision Processes, Game Theory, and Bayesian Learning.
-
-Additionally, Harsh has a strong grasp of statistical techniques such as Regression Analysis, Time Series Forecasting, Monte Carlo Simulation, Hypothesis Testing, and A/B Testing. He is experienced in working with applications and databases like Tableau, Microsoft Office Suite, GitHub, Power BI, Qlik, MySQL, PostgreSQL, Apache Spark, AWS Redshift, DynamoDB, Cassandra, and Hive.
-
-His core competencies span Data Mining, Data Engineering, Machine Learning, Computer Vision, Natural Language Processing, Data Analysis, and Data Visualization.
-
-Harsh's multifaceted personality shines through in his work and social interactions. As a machine learning enthusiast and sociable individual, he excels in client-facing roles, actively engaging with stakeholders to understand their needs and provide effective solutions. His passion for crunching numbers and working with datasets, alongside creating compelling visualizations, enables him to reveal the stories hidden within the data.
-
-Harsh firmly believes in empathy and gratitude, fostering positive work environments and delivering outstanding results. He places great importance on clear communication and defining requirements meticulously to ensure the team achieves the desired outcomes.
-
-Outside of work, Harsh cherishes meeting new people, engaging in meaningful conversations, and building valuable relationships. This trait complements his networking skills, making him a valuable asset in both professional and social spheres.
-
 interests:
   - AWS
-  - Artificial Intelligence 
+  - Artificial Intelligence
   - Machine Learning
   - Python
 
@@ -66,10 +50,10 @@ social:
     link: https://www.linkedin.com/in/solankiharsh/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'hvsolanki27@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,4 +61,4 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Meet Harsh, a talented Machine Learning Engineer with a passion for deep learning in computer vision and full-stack engineering. Currently serving as a Senior ML Engineer at Target Tech India, Harsh is engaged in building a MLOps platform from scratch. Proficient in Python, AWS, Sprintboot, Scala, Go, Kafka, PyTorch, TensorFlow, Flask, FastAPI, and Docker, Harsh's expertise extends across a wide range of technologies. He is a professional introvert who thrives on writing to learn and continually seeks new knowledge every day. Harsh's fascination with Data Science stems from his mathematical captivation and love for questioning existing processes and assumptions. He excels in developing novel methods and analytical algorithms, constantly striving for consistent improvement. His proficiency in Machine Learning encompasses various algorithms, including Decision Trees, Regression, Classification, Neural Networks, Ensemble methods, Kernel Methods, SVMs, Markov Decision Processes, Game Theory, and Bayesian Learning. Additionally, Harsh has a strong grasp of statistical techniques such as Regression Analysis, Time Series Forecasting, Monte Carlo Simulation, Hypothesis Testing, and A/B Testing. He is experienced in working with applications and databases like Tableau, Microsoft Office Suite, GitHub, Power BI, Qlik, MySQL, PostgreSQL, Apache Spark, AWS Redshift, DynamoDB, Cassandra, and Hive. His core competencies span Data Mining, Data Engineering, Machine Learning, Computer Vision, Natural Language Processing, Data Analysis, and Data Visualization. Harsh's multifaceted personality shines through in his work and social interactions. As a machine learning enthusiast and sociable individual, he excels in client-facing roles, actively engaging with stakeholders to understand their needs and provide effective solutions. His passion for crunching numbers and working with datasets, alongside creating compelling visualizations, enables him to reveal the stories hidden within the data. Harsh firmly believes in empathy and gratitude, fostering positive work environments and delivering outstanding results. He places great importance on clear communication and defining requirements meticulously to ensure the team achieves the desired outcomes. Outside of work, Harsh cherishes meeting new people, engaging in meaningful conversations, and building valuable relationships. This trait complements his networking skills, making him a valuable asset in both professional and social spheres.

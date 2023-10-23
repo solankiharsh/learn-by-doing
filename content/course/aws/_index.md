@@ -1,6 +1,6 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
+title: 🤖 Learn AWS
+linkTitle: Learn AWS
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
